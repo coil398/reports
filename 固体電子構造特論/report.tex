@@ -1,0 +1,93 @@
+\documentclass{jsarticle}
+\begin{document}
+
+\title{固体電子構造特論レポート}
+\author{1518511 川瀬　拓実}
+\maketitle
+
+\newpage
+
+\section{問1 平均のクーロン相互作用の導出}
+
+\[
+\overline{U} = \frac{1}{9} (U + 8U^{\prime} - 4J_H)  
+\]
+
+電子数が4つなので、10個の軌道から4つ選ぶのは${}_{10} \mathrm{C} _4 = 210$通りある。
+電子の状態各々について、エネルギーを足し合わせ、平均のクーロン相互作用を求める。
+アップスピンに着目すると、4つ全てがアップスピンの場合、3つがアップスピンの場合、2つがアップスピンの場合、1つのみがアップスピンの場合、1つもアップスピンが存在しない場合が存在するが、対称性から4つがアップスピンの場合と、3つがアップスピンの場合をそれぞれ2倍した場合と2つがアップスピンの場合を考えればいいことがわかる。
+
+\paragraph{↑↑↑↑の場合}
+\mbox{}\\
+　全てがアップスピンの場合、同一軌道に入ることはないので、5つの軌道から4つを選ぶ場合の数とすると${}_{5} \mathrm{C} _4 = 5$通りとなる。この場合のクーロン相互作用は$(6U^{\prime}-6J_H)$で、和は$5 \times (6U^{\prime} - 6J_H)$となる。
+
+\paragraph{↑↑↑↓の場合}
+\mbox{}\\
+　3つがアップスピンの場合、まず5つの軌道から3つを選ぶ場合の数なので${}_{5} \mathrm{C} _ 3 = 10$通りとなる。ここでダウンスピン1つの入れ方により、2つの場合に分かれる。
+
+\subparagraph{↓が↑と同じ軌道に入る場合}
+\mbox{}\\
+　3つのアップスピンどれかと同じ軌道に入る場合の数なので${}_{3} \mathrm{C} _ 1 = 3$から、合計で$10 \times 3 = 30$通りとなる。この場合のクーロン相互作用は$(U+5U^{\prime}-3J_H)$で、和は$30 \times (U+5U^{\prime}-3J_H)$となる。
+
+\subparagraph{↓が↑と異なる軌道に入る場合}
+\mbox{}\\
+　残り2つの軌道のどちらかに入る場合の数なので${}_{2} \mathrm{C} _ 1 = 2$から、合計で$10 \times 2 = 20$通りとなる。この場合のクーロン相互作用は$(6U^{\prime}-3J_H)$で、和は$20 \times (6U^{\prime}-3J_H)$となる。
+
+\paragraph{↑↑↓↓の場合}
+\mbox{}\\
+　2つがアップスピンの場合、まず5つの軌道から2つを選ぶ場合の数なので${}_{5} \mathrm{C} _ 2 = 10$通りとなる。ここでダウンスピン2つの入れ方により、3つの場合に分かれる。
+
+\subparagraph{2つの↓が↑と同じ軌道に入る場合}
+\mbox{}\\
+　2つのアップスピンの場所が決まれば、残り2つのダウンスピンの場所は自動的に決まるので${}_{2} \mathrm{C} _ 2 = 1$から、合計で$10 \times 1 = 10$通りとなる。この場合のクーロン相互作用は$(2U + 4U^{\prime} - 2J_H)$で、和は$10 \times (2U + 4U^{\prime} - 2J_H)$となる。
+
+\subparagraph{1つの↓が↑と同じ軌道に入り、もう1つの↓が↑と異なる軌道に入る場合}
+\mbox{}\\
+　2つのアップスピンに対して、片方がアップスピンどちらかと同じ軌道、もう片方がアップスピンのない軌道を選ぶ場合の数なので${}_{2} \mathrm{C} _ 1 \times {}_{3} \mathrm{C} _3 = 6$から、合計で$10 \times 6 = 60$通りとなる。この場合のクーロン相互作用は$(U + 5U^{\prime} - 2J_H)$で、和は$60 \times (U + 5U^{\prime} - 2J_H)$となる。
+
+\subparagraph{2つの↓が↑と異なる軌道に入る場合}
+\mbox{}\\
+　2つのアップスピンが入っていない軌道から2つ選ぶ場合の数なので${}_{3} \mathrm{C} _ 2 = 3$から、合計で$10 \times 3 = 30$通りとなる。この場合のクーロン相互作用は$(6U^{\prime} - 2J_H)$で、和は$30 \times (6U^{\prime} - 2J_H)$となる。
+
+\newpage
+
+以上から、全ての場合についてのクーロン相互作用を足しあげると
+\begin{eqnarray}
+sum &=& 2 \times 5 \times (6U^{\prime} - 6J_H) + 2 \times 30 \times (U+5U^{\prime}-3J_H) + 2 \times 20 \times (6U^{\prime}-3J_H) + 10 \times (2U + 4U^{\prime} - 2J_H) \nonumber \\
+&\quad＋& 60 \times (U + 5U^{\prime} - 2J_H) ＋ 30 \times (6U^{\prime} - 2J_H) \nonumber \\
+&=&  140U + 1120U^{\prime} - 560J_H \nonumber
+\end{eqnarray}
+全ての場合の数$210$で割ると、平均のクーロン相互作用$\overline{U}$は
+\begin{eqnarray}
+\overline{U} &=& \frac{1}{210}(140U + 1120U^{\prime} - 560J_H) \nonumber \\
+&=& \frac{2}{3} (U+8U^{\prime}-4J_H) \nonumber
+\end{eqnarray}
+
+\section{問2 電子相関ギャップと電荷移動ギャップの導出}
+
+\subsection{電荷移動ギャップの導出}
+HS状態での基底状態エネルギーから、各$n$についてのエネルギーギャップは以下のようになる。
+\begin{eqnarray}
+  \Delta _{gap}(1) &=& (2 \varepsilon_d^0 - 8Dq + U^{\prime} - J_H) - (\varepsilon_d^0 - 4Dq) \nonumber \\
+  &=& \varepsilon_d^0 - 4Dq + U^{\prime} - J_H \nonumber \\
+  \Delta _{gap}(2) &=&  (3 \varepsilon_d^0 - 12Dq + 3U^{\prime} -3J_H) - (2 \varepsilon_d^0 - 8Dq + U^{\prime} - J_H) \nonumber \\
+  &=& \varepsilon_d^0 - 4Dq + 2U^{\prime} - 2J_H \nonumber \\
+  \Delta _{gap}(3) &=& (4 \varepsilon_d^0 - 6Dq + 6U^{\prime} - 6J_H) - (3\varepsilon_d^0 - 12Dq + 3U^{\prime} - 3J_H) \nonumber \\
+  &=& \varepsilon_d^0 + 6Dq + 3U^{\prime} - 3J_H \nonumber \\
+  \Delta _{gap}(4) &=&  (5 \varepsilon_d^0 - 10Dq - 10J_H) - (4 \varepsilon_d^0 - 6Dq + 6U^{\prime} - 6J_H) \nonumber \\
+  &=& \varepsilon_d^0 + 6Dq + 4U^{\prime} - 4J_H \nonumber \\
+  \Delta _{gap}(5) &=& (6 \varepsilon_d^0 - 4Dq + U + 14U^{\prime} - 10J_H) - (5 \varepsilon_d^0 - 10Dq - 10J_H) \nonumber \\
+  &=& \varepsilon_d^0 - 4Dq + U + 4U^{\prime} \nonumber \\
+  \Delta _{gap}(6) &=& (7 \varepsilon_d^0 - 8Dq + 2U + 19U^{\prime} -11J_H) - (6 \varepsilon_d^0 - 4Dq + U + 14U^{\prime} - 10J_H) \nonumber \\
+  &=& \varepsilon_d^0 - 4Dq + U + 5U^{\prime} - J_H \nonumber \\
+  \Delta _{gap}(7) &=& (8 \varepsilon_d^0 - 12Dq + 3U + 25U^{\prime} - 13J_H) - (7 \varepsilon_d^0 - 8Dq + 2U + 19U^{\prime} -11J_H) \nonumber \\
+  &=& \varepsilon_d^0 - 4Dq + U + 6U^{\prime} - 2J_H \nonumber \\
+  \Delta _{gap}(8) &=& (9 \varepsilon_d^0 - 6Dq + 4U + 32U^{\prime} -16J_H) - (8 \varepsilon_d^0 - 12Dq + 3U + 25U^{\prime} - 13J_H) \nonumber \\
+  &=& \varepsilon_d^0 + 6Dq + U + 7U^{\prime} - 3J_H \nonumber \\
+  \Delta _{gap}(9) &=& (10 \varepsilon_d^0 + 5U + 40U^{\prime} - 20J_H) - (9 \varepsilon_d^0 - 6Dq + 4U + 32U^{\prime} -16J_H) \nonumber \\
+  &=& \varepsilon_d^0 + 6Dq + U + 8U^{\prime} - 4J_H \nonumber
+\end{eqnarray}
+これを$n$を使って表すと新たに以下のようになる。
+
+
+\end{document}
