@@ -1,4 +1,5 @@
 \documentclass{jsarticle}
+\usepackage[dvipdfmx]{graphicx}
 \begin{document}
 
 \title{固体電子構造特論レポート}
@@ -66,28 +67,87 @@ sum &=& 2 \times 5 \times (6U^{\prime} - 6J_H) + 2 \times 30 \times (U+5U^{\prim
 \section{問2 電子相関ギャップと電荷移動ギャップの導出}
 
 \subsection{電荷移動ギャップの導出}
-HS状態での基底状態エネルギーから、各$n$についてのエネルギーギャップは以下のようになる。
+配位子から電子を受け取った場合の$d$電子系の基底エネルギーは$E_G(d^{n+1}L)=E_G(d^n)+\Delta(n)$と書ける。
+これを使うとエネルギーギャップは$ \Delta _{gap} = E_G(d^{n+1})-E_G(d^{n})= \Delta (n)$になる。
+さらに多重項補正を取り入れると、Kanamoriの近似から
 \begin{eqnarray}
-  \Delta _{gap}(1) &=& (2 \varepsilon_d^0 - 8Dq + U^{\prime} - J_H) - (\varepsilon_d^0 - 4Dq) \nonumber \\
-  &=& \varepsilon_d^0 - 4Dq + U^{\prime} - J_H \nonumber \\
-  \Delta _{gap}(2) &=&  (3 \varepsilon_d^0 - 12Dq + 3U^{\prime} -3J_H) - (2 \varepsilon_d^0 - 8Dq + U^{\prime} - J_H) \nonumber \\
-  &=& \varepsilon_d^0 - 4Dq + 2U^{\prime} - 2J_H \nonumber \\
-  \Delta _{gap}(3) &=& (4 \varepsilon_d^0 - 6Dq + 6U^{\prime} - 6J_H) - (3\varepsilon_d^0 - 12Dq + 3U^{\prime} - 3J_H) \nonumber \\
-  &=& \varepsilon_d^0 + 6Dq + 3U^{\prime} - 3J_H \nonumber \\
-  \Delta _{gap}(4) &=&  (5 \varepsilon_d^0 - 10Dq - 10J_H) - (4 \varepsilon_d^0 - 6Dq + 6U^{\prime} - 6J_H) \nonumber \\
-  &=& \varepsilon_d^0 + 6Dq + 4U^{\prime} - 4J_H \nonumber \\
-  \Delta _{gap}(5) &=& (6 \varepsilon_d^0 - 4Dq + U + 14U^{\prime} - 10J_H) - (5 \varepsilon_d^0 - 10Dq - 10J_H) \nonumber \\
-  &=& \varepsilon_d^0 - 4Dq + U + 4U^{\prime} \nonumber \\
-  \Delta _{gap}(6) &=& (7 \varepsilon_d^0 - 8Dq + 2U + 19U^{\prime} -11J_H) - (6 \varepsilon_d^0 - 4Dq + U + 14U^{\prime} - 10J_H) \nonumber \\
-  &=& \varepsilon_d^0 - 4Dq + U + 5U^{\prime} - J_H \nonumber \\
-  \Delta _{gap}(7) &=& (8 \varepsilon_d^0 - 12Dq + 3U + 25U^{\prime} - 13J_H) - (7 \varepsilon_d^0 - 8Dq + 2U + 19U^{\prime} -11J_H) \nonumber \\
-  &=& \varepsilon_d^0 - 4Dq + U + 6U^{\prime} - 2J_H \nonumber \\
-  \Delta _{gap}(8) &=& (9 \varepsilon_d^0 - 6Dq + 4U + 32U^{\prime} -16J_H) - (8 \varepsilon_d^0 - 12Dq + 3U + 25U^{\prime} - 13J_H) \nonumber \\
-  &=& \varepsilon_d^0 + 6Dq + U + 7U^{\prime} - 3J_H \nonumber \\
-  \Delta _{gap}(9) &=& (10 \varepsilon_d^0 + 5U + 40U^{\prime} - 20J_H) - (9 \varepsilon_d^0 - 6Dq + 4U + 32U^{\prime} -16J_H) \nonumber \\
-  &=& \varepsilon_d^0 + 6Dq + U + 8U^{\prime} - 4J_H \nonumber
+  \Delta _{eff} - \Delta
+  = \left\{ \begin{array}{ll}
+    n \times (- \frac{7}{9} J_H) & (1 \leq n \leq 4) \\
+    n \times (- \frac{7}{9} J_H) + 7 J_H & (5 \leq n \leq 9)
+  \end{array} \right. \nonumber
 \end{eqnarray}
-これを$n$を使って表すと新たに以下のようになる。
+
+以上から$1 \leq n \leq 9$について電荷移動ギャップを求めると
+\begin{eqnarray}
+  \Delta _{gap}
+  = \left\{ \begin{array}{ll}
+    \Delta(n) + n \tilde{J}_H & (1 \leq n \leq 4) \\
+    \Delta(n) + (9 - n) \tilde{J}_H & (5 \leq n \leq 9)
+  \end{array} \right. \nonumber
+\end{eqnarray}
+となる。
+
+\subsection{電子相関ギャップ}
+$\overline{U}$を$U^{\prime}$と$\tilde{J}_H$を使って表す。
+\begin{eqnarray}
+  \overline{U} &=& \frac{1}{9} (9U^{\prime} -2J_H) \nonumber \\
+  &=& U^{\prime} - \frac{2}{9}J_H \nonumber \\
+  &=& U^{\prime} - \frac{2}{7}\tilde{J}_H \nonumber
+\end{eqnarray}
+これを使って電子相関ギャップを書き換えると
+\begin{eqnarray}
+  U_{gap}(1) &=& \overline{U} - \tilde{J}_H \nonumber \\
+  U_{gap}(2) &=& \overline{U} - \tilde{J}_H \nonumber \\
+  U_{gap}(3) &=& \overline{U} - \tilde{J}_H + 10Dq \nonumber \\
+  U_{gap}(4) &=& \overline{U} - \tilde{J}_H \nonumber \\
+  U_{gap}(5) &=& \overline{U} + 8\tilde{J}_H - 10Dq \nonumber \\
+  U_{gap}(6) &=& \overline{U} - \tilde{J}_H \nonumber \\
+  U_{gap}(7) &=& \overline{U} - \tilde{J}_H \nonumber \\
+  U_{gap}(8) &=& \overline{U} - \tilde{J}_H + 10Dq \nonumber \\
+  U_{gap}(9) &=& \overline{U} - \tilde{J}_H \nonumber
+\end{eqnarray}
+
+\section{$\mathrm{La}M\mathrm{O_3}$における電子相関ギャップと電荷移動ギャップの比較}
+\subsection{電荷移動ギャップと電子相関ギャップの導出}
+問2で求めた電荷移動ギャップと電子相関ギャップをそれぞれ計算する。\\
+\subsubsection{電荷移動ギャップの計算}
+\begin{eqnarray}
+  \Delta _{gap}
+  &=& \left\{ \begin{array}{ll}
+    \Delta(n) + n \tilde{J}_H & (1 \leq n \leq 4) \\
+    \Delta(n) + (9 - n) \tilde{J}_H & (5 \leq n \leq 9)
+  \end{array} \right. \nonumber \\
+  &=& \left\{ \begin{array}{ll}
+    12 \tilde{J}_H - \tilde{J}_H \Delta _z + n \tilde{J}_H = (12 - \Delta _z + n) \tilde{J}_H & (1 \leq n \leq 4) \\
+    12 \tilde{J}_H - \tilde{J}_H \Delta _z + (9 - n) \tilde{J}_H = (21 - \Delta _z -n) \tilde{J}_H & (5 \leq n \leq 9)
+  \end{array} \right. \nonumber
+\end{eqnarray}
+\subsubsection{電子相関ギャップの計算}
+\begin{eqnarray}
+  U_{gap}(1) &=& (7 + \frac{1}{2} \Delta _z)\tilde{J}_H \nonumber \\
+  U_{gap}(2) &=& (7 + \frac{1}{2} \Delta _z)\tilde{J}_H \nonumber \\
+  U_{gap}(3) &=& (9 + \frac{1}{2} \Delta _z)\tilde{J}_H \nonumber \\
+  U_{gap}(4) &=& (7 + \frac{1}{2} \Delta _z)\tilde{J}_H \nonumber \\
+  U_{gap}(5) &=& (14 + \frac{1}{2} \Delta _z)\tilde{J}_H \nonumber \\
+  U_{gap}(6) &=& (7 + \frac{1}{2} \Delta _z)\tilde{J}_H \nonumber \\
+  U_{gap}(7) &=& (7 + \frac{1}{2} \Delta _z)\tilde{J}_H \nonumber \\
+  U_{gap}(8) &=& (9 + \frac{1}{2} \Delta _z)\tilde{J}_H \nonumber \\
+  U_{gap}(9) &=& (7 + \frac{1}{2} \Delta _z)\tilde{J}_H \nonumber
+\end{eqnarray}
+
+\newpage
+
+\subsection{}
+$\Delta, \overline{U}, \Delta_{gap}, U_{gap}$をグラフに図示すると以下のようになる。($\Delta _z = 0$とした。) \\
+\includegraphics[width=10cm]{graph01.png}
+
+\section{LSの場合}
+これまでの計算はHSについて行ったので、改めてLSについて計算する必要がある。
+\subsection{電荷移動ギャップ}
+HSからLSになったことで変わるのは、Kanamoriの近似だと考えられるが、LSの場合のKanamoriの近似が分からなかったので$\Delta _{gap} = \Delta(n)$とする。
+
+\subsection{電子相関ギャップ}
 
 
 \end{document}
