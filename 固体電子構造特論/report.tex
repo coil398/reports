@@ -148,6 +148,43 @@ $\Delta, \overline{U}, \Delta_{gap}, U_{gap}$をグラフに図示すると以�
 HSからLSになったことで変わるのは、Kanamoriの近似だと考えられるが、LSの場合のKanamoriの近似が分からなかったので$\Delta _{gap} = \Delta(n)$とする。
 
 \subsection{電子相関ギャップ}
+まず、LSでの基底エネルギーを計算する。
+\begin{eqnarray}
+  E_G(d^1) = \varepsilon_d^0 - 4Dq \nonumber \\
+  E_G(d^2) = 2\varepsilon_d^0 - 8Dq + U^{\prime} - J_H \nonumber \\
+  E_G(d^3) = 3\varepsilon_d^0 - 12Dq + 3U^{\prime} - 3J_H \nonumber \\
+  E_G^{LS}(d^4) = 4\varepsilon_d^0 - 16Dq + U + 5U^{\prime} - 3J_H \nonumber \\
+  E_G^{LS}(d^5) = 5\varepsilon_d^0 - 20Dq + 2U + 8U^{\prime} - 4J_H \nonumber \\
+  E_G^{LS}(d^6) = 6\varepsilon_d^0 - 24Dq + 3U + 12U^{\prime} - 6J_H \nonumber \\
+  E_G^{LS}(d^7) = 7\varepsilon_d^0 - 18Dq + 3U + 18U^{\prime} - 9J_H \nonumber \\
+  E_G^{LS}(d^8) = 8\varepsilon_d^0 - 12Dq + 3U + 25U^{\prime} - 13J_H \nonumber \\
+  E_G(d^9) = 9\varepsilon_d^0 - 6Dq + 4U + 32U^{\prime} - 16J_H \nonumber \\
+  E_G(d^10) = 10\varepsilon_d^0 + 5U + 40U^{\prime} - 20J_H \nonumber
+\end{eqnarray}
 
+これらを用いてエネルギーギャップを計算する
+\begin{eqnarray}
+  U_{gap}(d^1) &=& U^{\prime} - J_H = \overline{U} - \tilde{J}_H \nonumber \\
+  &=& 7\tilde{J}_H \nonumber \\
+  U_{gap}(d^2) &=& U^{\prime} - J_H = \overline{U} - \tilde{J}_H \nonumber \\
+  &=& 7\tilde{J}_H \nonumber \\
+  U_{gap}^{LS}(d^3) &=& U + 2J_H = \overline{U} + \frac{38}{7}\tilde{J}_H \nonumber \\
+  &=& \frac{94}{7}\tilde{J}_H \nonumber \\
+  U_{gap}^{LS}(d^4) &=& U^{\prime} - J_H = \overline{U} - \tilde{J}_H \nonumber \\
+  &=& 7\tilde{J}_H \nonumber \\
+  U_{gap}^{LS}(d^5) &=& U^{\prime} - J_H = \overline{U} - \tilde{J}_H \nonumber \\
+  &=& 7\tilde{J}_H \nonumber \\
+  U_{gap}^{LS}(d^6) &=& -U + 2U^{\prime} - J_H + 10Dq = \overline{U} - \frac{25}{7}\tilde{J}_H + 10Dq \nonumber \\
+  &=& \frac{45}{7} \tilde{J}_H \nonumber \\
+  U_{gap}^{LS}(d^7) &=& U^{\prime} - J_H = \overline{U} - \tilde{J}_H \nonumber \\
+  &=& 7\tilde{J}_H \nonumber \\
+  U_{gap}^{LS}(d^8) &=& U - J_H = \overline{U} + \frac{11}{7}\tilde{J}_H \nonumber \\
+  &=& \frac{67}{7} \tilde{J}_H \nonumber \\
+  U_{gap}^{LS}(d^9) &=& U^{\prime} - J_H = \overline{U} - \tilde{J}_H \nonumber \\
+  &=& 7\tilde{J}_H \nonumber
+\end{eqnarray}
+
+$\Delta, \overline{U}, U_{gap}$をグラフに図示すると以下のようになる。 \\
+\includegraphics[width=10cm]{graph02.png}
 
 \end{document}

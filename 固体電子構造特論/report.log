@@ -1,83 +1,56 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.1.16)  6 AUG 2018 22:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2018.7.30)  7 AUG 2018 04:05
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/takumi/Documents/workspace/tex/reports/�^^9b坂�^^93�^^9b糸�^^90罕^^8b
-�^^80^^a0�^^89壕�^^96/report
+**/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.
+tex
 
-(/Users/takumi/Documents/workspace/tex/reports/�^^9b坂�^^93�^^9b糸�^^90罕^^8b�^
-^80^^a0�^^89壕�^^96/report.tex
-pLaTeX2e <2017/10/28>+3 (based on LaTeX2e <2017-04-15>)
-Babel <3.16> and hyphenation patterns for 84 language(s) loaded.
-(/usr/local/texlive/2017/texmf-dist/tex/platex/jsclasses/jsarticle.cls
-Document Class: jsarticle 2017/10/04 jsclasses (okumura, texjporg)
-\jsc@mpt=\dimen118
-\jsc@mmm=\dimen119
-\jsc@smallskipamount=\skip41
-LaTeX Info: Redefining \rmfamily on input line 471.
-LaTeX Info: Redefining \sffamily on input line 474.
-LaTeX Info: Redefining \ttfamily on input line 477.
-LaTeX Info: Redefining \textmc on input line 481.
-LaTeX Info: Redefining \textgt on input line 483.
-\symmincho=\mathgroup4
-LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 545.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 736.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 736.
-\fullwidth=\dimen120
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 7.68799pt on input line 889.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 7.68799pt on input line 889.
-\c@part=\count82
-\c@section=\count83
-\c@subsection=\count84
-\c@subsubsection=\count85
-\c@paragraph=\count86
-\c@subparagraph=\count87
-\@abstractbox=\box42
-\c@figure=\count88
-\c@table=\count89
-\abovecaptionskip=\skip42
-\belowcaptionskip=\skip43
-\jsc@tocl@width=\dimen121
-\@lnumwidth=\dimen122
-\bibindent=\dimen123
-(/usr/local/texlive/2017/texmf-dist/tex/platex/jsclasses/jslogo.sty
-Package: jslogo 2017/02/24 okumura, texjporg
-LaTeX Info: Redefining \TeX on input line 94.
-LaTeX Info: Redefining \LaTeX on input line 147.
-LaTeX Info: Redefining \LaTeXe on input line 200.
-)
-\heisei=\count90
-)
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+(/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.t
+ex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+
+/usr/share/texmf-dist/tex/platex/jsclasses/jsarticle.cls:26: LaTeX Error: This 
+file needs format `pLaTeX2e'
+               but this is `LaTeX2e'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \NeedsTeXFormat{pLaTeX2e}
+                              
+The current input file will not be processed further,
+because it was written for some other flavor of TeX.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks14
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: dvipdfmx.def on input line 99.
 
-(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+(/usr/share/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
 File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
 ))
-\Gin@req@height=\dimen124
-\Gin@req@width=\dimen125
-)
-(./report.aux)
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+) (./report.aux)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -92,72 +65,1753 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 7.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 16.60605pt on input line 7.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 7.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 7.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 7.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 5.76599pt on input line 7.
- [1
 
-]
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 11.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 11.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 11.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 13.83836pt on input line 11.
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:3: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:7: Undefined control sequence.
+l.7 \maketitle
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Undefined control sequence.
+l.11 \section
+             {問1 平均のクーロン相互作用の導出}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character 問 (U+554F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \section{問
+                 1 平均のクーロン相互作用の導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 1 in font nullfont!
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character 平 (U+5E73)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \section{問1 平
+                      均のクーロン相互作用の導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character 均 (U+5747)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \section{問1 平均
+                         のクーロン相互作用の導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \section{問1 平均の
+                            クーロン相互作用の導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character ク (U+30AF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \section{問1 平均のク
+                               ーロン相互作用の導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \section{問1 平均のクー
+                                  ロン相互作用の導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character ロ (U+30ED)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \section{問1 平均のクーロ
+                                     ン相互作用の導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character ン (U+30F3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \section{問1 平均のクーロン
+                                        相互作用の導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character 相 (U+76F8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \section{問1 平均のクーロン相
+                                           互作用の導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character 互 (U+4E92)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \section{問1 平均のクーロン相互
+                                              作用の導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character 作 (U+4F5C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \section{問1 平均のクーロン相互作
+                                                 用の導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character 用 (U+7528)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...ion{問1 平均のクーロン相互作用
+                                                  の導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...{問1 平均のクーロン相互作用の
+                                                  導出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character 導 (U+5C0E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...�1 平均のクーロン相互作用の導
+                                                  出}
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:11: Package inputenc Error: Unicode character 出 (U+51FA)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...平均のクーロン相互作用の導出
+                                                  }
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 13.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 6.72699pt on input line 13.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 4.805pt on input line 13.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 22.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 22.
- [2]
-Overfull \hbox (18.25795pt too wide) in alignment at lines 56--60
- [][][] []
- []
 
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 69.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 69.
-[3]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 111.
- [4]
-File: graph01.png Graphic file (type bmp)
-<graph01.png>
- [5] (./report.aux) ) 
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character 電 (U+96FB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電
+        子数が4つなので、10個の軌道から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character 子 (U+5B50)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子
+           数が4つなので、10個の軌道から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character 数 (U+6570)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子数
+              が4つなので、10個の軌道から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character が (U+304C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子数が
+                 4つなので、10個の軌道から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 4 in font nullfont!
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character つ (U+3064)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子数が4つ
+                     なので、10個の軌道から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character な (U+306A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子数が4つな
+                        ので、10個の軌道から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子数が4つなの
+                           で、10個の軌道から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character で (U+3067)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子数が4つなので
+                              、10個の軌道から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子数が4つなので、
+                                 10個の軌道から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character 個 (U+500B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子数が4つなので、10個
+                                      の軌道から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子数が4つなので、10個の
+                                         軌道から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character 軌 (U+8ECC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子数が4つなので、10個の軌
+                                            道から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character 道 (U+9053)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子数が4つなので、10個の軌道
+                                               から4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character か (U+304B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 電子数が4つなので、10個の軌道か
+                                                  ら4つ選ぶのは${}_{10...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character ら (U+3089)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...数が4つなので、10個の軌道から
+                                                  4つ選ぶのは${}_{10} \...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 4 in font nullfont!
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character つ (U+3064)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...��4つなので、10個の軌道から4つ
+                                                  選ぶのは${}_{10} \math...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character 選 (U+9078)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...つなので、10個の軌道から4つ選
+                                                  ぶのは${}_{10} \mathrm{...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character ぶ (U+3076)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...なので、10個の軌道から4つ選ぶ
+                                                  のは${}_{10} \mathrm{C} ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...ので、10個の軌道から4つ選ぶの
+                                                  は${}_{10} \mathrm{C} _4 ...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character は (U+306F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...で、10個の軌道から4つ選ぶのは
+                                                  ${}_{10} \mathrm{C} _4 = 2...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character 通 (U+901A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...�ぶのは${}_{10} \mathrm{C} _4 = 210$通
+                                                  りある。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character り (U+308A)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...�のは${}_{10} \mathrm{C} _4 = 210$通り
+                                                  ある。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character あ (U+3042)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...�は${}_{10} \mathrm{C} _4 = 210$通りあ
+                                                  る。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character る (U+308B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...�${}_{10} \mathrm{C} _4 = 210$通りある
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:17: Package inputenc Error: Unicode character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...}_{10} \mathrm{C} _4 = 210$通りある。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 電 (U+96FB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電
+        子の状態各々について、エネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 子 (U+5B50)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子
+           の状態各々について、エネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の
+              状態各々について、エネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 状 (U+72B6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の状
+                 態各々について、エネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 態 (U+614B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の状態
+                    各々について、エネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 各 (U+5404)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の状態各
+                       々について、エネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 々 (U+3005)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の状態各々
+                          について、エネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の状態各々に
+                             ついて、エネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character つ (U+3064)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の状態各々につ
+                                いて、エネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character い (U+3044)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の状態各々につい
+                                   て、エネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character て (U+3066)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の状態各々について
+                                      、エネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の状態各々について、
+                                         エネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character エ (U+30A8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の状態各々について、エ
+                                            ネルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character ネ (U+30CD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の状態各々について、エネ
+                                               ルギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character ル (U+30EB)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 電子の状態各々について、エネル
+                                                  ギーを足し合わせ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character ギ (U+30AE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...の状態各々について、エネルギ
+                                                  ーを足し合わせ、�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...状態各々について、エネルギー
+                                                  を足し合わせ、平�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character を (U+3092)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...態各々について、エネルギーを
+                                                  足し合わせ、平均�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 足 (U+8DB3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...各々について、エネルギーを足
+                                                  し合わせ、平均の�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character し (U+3057)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...々について、エネルギーを足し
+                                                  合わせ、平均のク�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 合 (U+5408)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...について、エネルギーを足し合
+                                                  わせ、平均のクー�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character わ (U+308F)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ついて、エネルギーを足し合わ
+                                                  せ、平均のクーロ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character せ (U+305B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...いて、エネルギーを足し合わせ
+                                                  、平均のクーロン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...て、エネルギーを足し合わせ、
+                                                  平均のクーロン相�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 平 (U+5E73)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...、エネルギーを足し合わせ、平
+                                                  均のクーロン相互�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 均 (U+5747)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...エネルギーを足し合わせ、平均
+                                                  のクーロン相互作�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ネルギーを足し合わせ、平均の
+                                                  クーロン相互作用�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character ク (U+30AF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ルギーを足し合わせ、平均のク
+                                                  ーロン相互作用を�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character ー (U+30FC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ギーを足し合わせ、平均のクー
+                                                  ロン相互作用を求�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character ロ (U+30ED)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ーを足し合わせ、平均のクーロ
+                                                  ン相互作用を求め�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character ン (U+30F3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...を足し合わせ、平均のクーロン
+                                                  相互作用を求める。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 相 (U+76F8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...足し合わせ、平均のクーロン相
+                                                  互作用を求める。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 互 (U+4E92)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...し合わせ、平均のクーロン相互
+                                                  作用を求める。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 作 (U+4F5C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...合わせ、平均のクーロン相互作
+                                                  用を求める。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 用 (U+7528)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...わせ、平均のクーロン相互作用
+                                                  を求める。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character を (U+3092)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...せ、平均のクーロン相互作用を
+                                                  求める。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 求 (U+6C42)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...、平均のクーロン相互作用を求
+                                                  める。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character め (U+3081)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...平均のクーロン相互作用を求め
+                                                  る。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character る (U+308B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...均のクーロン相互作用を求める
+                                                  。
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:18: Package inputenc Error: Unicode character 。 (U+3002)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...のクーロン相互作用を求める。
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ア (U+30A2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ア
+        ップスピンに着目すると、4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ッ (U+30C3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アッ
+           プスピンに着目すると、4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character プ (U+30D7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アップ
+              スピンに着目すると、4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ス (U+30B9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アップス
+                 ピンに着目すると、4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ピ (U+30D4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アップスピ
+                    ンに着目すると、4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ン (U+30F3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アップスピン
+                       に着目すると、4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character に (U+306B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アップスピンに
+                          着目すると、4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character 着 (U+7740)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アップスピンに着
+                             目すると、4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character 目 (U+76EE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アップスピンに着目
+                                すると、4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character す (U+3059)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アップスピンに着目す
+                                   ると、4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character る (U+308B)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アップスピンに着目する
+                                      と、4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character と (U+3068)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アップスピンに着目すると
+                                         、4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アップスピンに着目すると、
+                                            4つ全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 4 in font nullfont!
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character つ (U+3064)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 アップスピンに着目すると、4つ
+                                                全てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character 全 (U+5168)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��プスピンに着目すると、4つ全
+                                                  てがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character て (U+3066)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��スピンに着目すると、4つ全て
+                                                  がアップスピンの�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character が (U+304C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��ピンに着目すると、4つ全てが
+                                                  アップスピンの場�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ア (U+30A2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��ンに着目すると、4つ全てがア
+                                                  ップスピンの場合�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ッ (U+30C3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��に着目すると、4つ全てがアッ
+                                                  プスピンの場合、3�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character プ (U+30D7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��着目すると、4つ全てがアップ
+                                                  スピンの場合、3つ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ス (U+30B9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��目すると、4つ全てがアップス
+                                                  ピンの場合、3つが�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ピ (U+30D4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��すると、4つ全てがアップスピ
+                                                  ンの場合、3つがア�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ン (U+30F3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��ると、4つ全てがアップスピン
+                                                  の場合、3つがアッ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character の (U+306E)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��と、4つ全てがアップスピンの
+                                                  場合、3つがアップ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character 場 (U+5834)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��、4つ全てがアップスピンの場
+                                                  合、3つがアップス�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character 合 (U+5408)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��4つ全てがアップスピンの場合
+                                                  、3つがアップスピ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character 、 (U+3001)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...つ全てがアップスピンの場合、
+                                                  3つがアップスピン�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 3 in font nullfont!
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character つ (U+3064)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��てがアップスピンの場合、3つ
+                                                  がアップスピンの�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character が (U+304C)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��がアップスピンの場合、3つが
+                                                  アップスピンの場�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ア (U+30A2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��アップスピンの場合、3つがア
+                                                  ップスピンの場合�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ッ (U+30C3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��ップスピンの場合、3つがアッ
+                                                  プスピンの場合、2�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character プ (U+30D7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��プスピンの場合、3つがアップ
+                                                  スピンの場合、2つ�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ス (U+30B9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��スピンの場合、3つがアップス
+                                                  ピンの場合、2つが�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ピ (U+30D4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��ピンの場合、3つがアップスピ
+                                                  ンの場合、2つがア�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19: Package inputenc Error: Unicode character ン (U+30F3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...��ンの場合、3つがアップスピン
+                                                  の場合、2つがアッ�...
+(That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 848 strings out of 493638
- 10287 string characters out of 6148680
- 77022 words of memory out of 5000000
- 4492 multiletter control sequences out of 15000+600000
- 14902 words of font info for 66 fonts, out of 8000000 for 9000
- 934 hyphenation exceptions out of 8191
- 25i,12n,21p,408b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 459 strings out of 492649
+ 6020 string characters out of 6135778
+ 62430 words of memory out of 5000000
+ 4412 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,2n,21p,558b,58s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.dvi (5 pages, 14128 bytes).
+/home/takumi/Documents/workspace/tex/reports/固体電子構造特論/report.te
+x:19:  ==> Fatal error occurred, no output PDF file produced!
