@@ -1,0 +1,18 @@
+# Fdb version 3
+["pdflatex"] 1541460082 "/home/takumi/Documents/workspace/tex/reports/磁性体総論/report.tex" "report.pdf" "report" 1541460082
+  "/home/takumi/Documents/workspace/tex/reports/磁性体総論/report.tex" 1541460082 2875 95a672bf8d49a4fc83c2b97dabe1f365 ""
+  "/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1536122179 1224 978390e9c2234eab29404bc21b268d1e ""
+  "/usr/share/texmf-dist/tex/latex/graphics-def/dvipdfmx.def" 1536122179 10299 c742d2190e924996d2f4e34b541cd5e3 ""
+  "/usr/share/texmf-dist/tex/latex/graphics/graphics.sty" 1536122179 15272 5a97061616e0c8b2aa79c6615ff769f4 ""
+  "/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty" 1536122179 9063 d0a305975932762117cd1f06a582f896 ""
+  "/usr/share/texmf-dist/tex/latex/graphics/keyval.sty" 1536122179 2591 6404d0c7d28505fb38ce0d86c2e28ae7 ""
+  "/usr/share/texmf-dist/tex/latex/graphics/trig.sty" 1536122179 3977 cb9221976ed8a183afad65b59aa8629a ""
+  "/usr/share/texmf-dist/tex/platex/jsclasses/jsarticle.cls" 1536123989 59159 21c4d434b56837da0d2164489b3ea5f5 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1536122179 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1536404561 7908118 a08e8e97923c3f7098a75dc3490ab188 ""
+  "report.aux" 1541460082 8 a94a2480d3289e625eea47cd1b285758 ""
+  "report.tex" 1541460082 2875 95a672bf8d49a4fc83c2b97dabe1f365 ""
+  (generated)
+  "report.pdf"
+  "report.aux"
+  "report.log"
